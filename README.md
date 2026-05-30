@@ -31,5 +31,11 @@ This produces two executables in build/: server and client
 - Clean CMake build system for easy compilation
 
 
+## Demo
+### Server Running
+<img width="1285" height="142" alt="image" src="https://github.com/user-attachments/assets/c6d89b51-9a7e-4988-bba9-9426fdc66ce8" />
+
+### Client Chat in Action
+<img width="1278" height="136" alt="image" src="https://github.com/user-attachments/assets/5a05cd99-36e9-4d97-ac1e-5e2ebbc01935" />
 
 
