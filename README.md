@@ -29,3 +29,17 @@ This produces two executables in build/: server and client
 - Thread pool for handling multiple clients concurrently
 - Broadcast messaging so all clients see each other’s messages
 - Clean CMake build system for easy compilation
+
+
+## Demo
+
+### Server Start
+![Server running](https://github.com/user-attachments/assets/9d9400f0-f3c7-46cf-9fbb-94a3ba00a2ad)
+
+### Client Chat in Action
+![Client connected](https://github.com/user-attachments/assets/5bd5a5b6-1ead-41c8-a713-2588d26eb175)
+
+
+
+
+
