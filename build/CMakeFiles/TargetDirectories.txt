@@ -1,4 +1,0 @@
-/workspaces/Real-Time-Multiplayer-game-Chat-Server/build/CMakeFiles/server.dir
-/workspaces/Real-Time-Multiplayer-game-Chat-Server/build/CMakeFiles/client.dir
-/workspaces/Real-Time-Multiplayer-game-Chat-Server/build/CMakeFiles/edit_cache.dir
-/workspaces/Real-Time-Multiplayer-game-Chat-Server/build/CMakeFiles/rebuild_cache.dir

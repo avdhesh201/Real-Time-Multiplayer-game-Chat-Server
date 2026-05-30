@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/server.dir/src/server.cpp.o CMakeFiles/server.dir/src/threadpool.cpp.o CMakeFiles/server.dir/src/lobby.cpp.o CMakeFiles/server.dir/src/matchmaking.cpp.o CMakeFiles/server.dir/src/chat.cpp.o CMakeFiles/server.dir/src/sync.cpp.o -o server  -lpthread 
